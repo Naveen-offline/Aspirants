@@ -28,8 +28,7 @@ I am using this repository to understand Java concepts and improve my programmin
 
 ## 🛠 Tools Used
 - Java (JDK)
-- VS Code / Eclipse
-- Git & GitHub
+- VS Code 
 
 ## 🎯 Goal
 To gain a strong foundation in Java and apply it in:
